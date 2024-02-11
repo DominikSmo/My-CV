@@ -3,6 +3,8 @@
 This is a project of my CV created in HTML and CSS. 
 I used for it a Visual Studio Code.
 
+Link to my cv: https://dominiksmo.github.io/My-CV/CV%20Dominik%20Smolik.html
+
 ![screen vstudiocode1](https://github.com/DominikSmo/My-CV/assets/147718259/d270e885-eb20-4b85-8ab2-768a2b72760c)
 ![screen vstudio code 2](https://github.com/DominikSmo/My-CV/assets/147718259/f1f9edd8-22e8-4fad-ba7b-460feb22acbc)
 ![screen vstudiocode 3](https://github.com/DominikSmo/My-CV/assets/147718259/b0013a5c-e825-416d-975c-aa1956d86c82)
